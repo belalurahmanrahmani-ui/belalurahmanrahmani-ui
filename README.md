@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Full-stack development, backend fundamentals, and advanced React patterns**
 
 - 💬 Ask me about **React, Next.js, JavaScript, and building responsive web applications**
+-  💬 Now I'm Learning and developing my final Year Project with **React, Next.js,Asp.Net Core Web Api , Microsoft Sql Server database **
 
 - 📫 How to reach me **belalurahmanrahmani@gmail.com**
 
